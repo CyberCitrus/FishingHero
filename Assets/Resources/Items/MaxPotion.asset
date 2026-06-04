@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d80708f26017ae42af7154e41b3350e, type: 3}
+  m_Name: MaxPotion
+  m_EditorClassIdentifier: 
+  name: "\u5B8C\u5168\u56DE\u590D\u836F"
+  description: "\u5B8C\u5168\u6062\u590DHP"
+  icon: {fileID: -963388243, guid: a8a8bdc82aa528549aa4fbf9abb86e28, type: 3}
+  hpAmount: 0
+  restoreMaxHP: 1
