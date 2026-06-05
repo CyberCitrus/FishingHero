@@ -1,7 +1,8 @@
 # Fishing Hero 钓鱼勇者
 
 ### 一句介绍
-来到未完成世界的勇者，正在一边战斗一边……钓鱼？
+来到未完成世界的勇者，正在一边战斗一边……钓鱼？<br>
+预览demo：https://cybercitrus.github.io/FishingHero_Web/
 
 - 有限状态机实现回合制战斗系统
 - 背包系统&模板化道具池
