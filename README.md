@@ -24,6 +24,6 @@
 - `Monster` / `Move` : 数据模型，支持升级与伤害计算
 - `MonsterDB` : ScriptableObject 数据库，提供怪物配置
 
-- ### Bonus
+### Bonus
 此项目中使用的FSM并不规范，是针对回合制形式使用的enum+switch简易形式，适用于少量状态的迅速构建&减少代码量
 对于较为规范的、复用性高的状态机（状态管理器&状态接口&状态类），可以参考root下FSM中的脚本
